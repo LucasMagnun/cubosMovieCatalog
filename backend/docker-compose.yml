@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: movies-challange-postgre-container
+    restart: no
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: movies-challange
+    ports:
+      - '5460:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
