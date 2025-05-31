@@ -54,8 +54,6 @@ npx prisma migrate dev --name initial-schema
 
 npx prisma generate
 
-npm run start:dev
-
 ### 4. Execute a seed para popular o sistema
 
 npm run seed
@@ -65,6 +63,8 @@ Esse comando irá gerar um usuário padrão para testes:
 Email: admin@example.com
 
 Senha: admin123
+
+npm run start:dev
 
 ### 5. Rode o Frontend
 Em outro terminal:
