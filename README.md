@@ -1,4 +1,4 @@
-# 🎬 MoviesChallenge
+# 🎬 Catálogo de filmes
 
 Um catálogo pessoal de filmes desenvolvido com o objetivo de permitir que o usuário cadastre seus filmes favoritos. Quando um filme possui uma data de lançamento futura, o sistema envia um e-mail notificando sobre a estreia.
 
