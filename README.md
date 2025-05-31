@@ -15,6 +15,10 @@ Um catálogo pessoal de filmes desenvolvido com o objetivo de permitir que o usu
 - [React](https://reactjs.org/) com [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+**Integrações:**
+- [AWS S3]
+- [ETHEREAL]
+
 ---
 
 ## 🚀 Como executar o projeto
