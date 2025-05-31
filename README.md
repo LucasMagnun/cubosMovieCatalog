@@ -21,7 +21,7 @@ Um catálogo pessoal de filmes desenvolvido com o objetivo de permitir que o usu
 
 ### 1. Clone o repositório
 
-git clone https://github.com/LucasMagnun/MoviesChallenge.git
+git clone https://github.com/LucasMagnun/cubosMovieCatalog
 cd MoviesChallenge
 
 ### 2. Configure as variáveis de ambiente
