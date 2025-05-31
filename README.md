@@ -47,7 +47,9 @@ AWS_BUCKET_NAME=
 ### 3. Instale as dependecias do Backend
 
 cd backend
+
 npm install
+
 npm run start:dev
 
 ### 4. Execute a seed para popular o sistema
@@ -64,7 +66,9 @@ Senha: admin123
 Em outro terminal:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 ### 6. Testando o envio de e-mail
