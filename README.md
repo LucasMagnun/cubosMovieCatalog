@@ -50,6 +50,10 @@ cd backend
 
 npm install
 
+npx prisma migrate dev --name initial-schema
+
+npx prisma generate
+
 npm run start:dev
 
 ### 4. Execute a seed para popular o sistema
